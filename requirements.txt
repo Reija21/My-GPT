@@ -1,0 +1,5 @@
+torch==2.4.1          # PyTorch para redes neuronales
+transformers==4.15.0  # Hugging Face para trabajar con modelos de lenguaje
+numpy==1.21.0         # Operaciones numéricas
+pandas==1.3.3         # Manejo de datos
+scikit-learn==0.24.2  # Machine learning básico
